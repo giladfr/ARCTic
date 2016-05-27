@@ -1,0 +1,29 @@
+{
+  "Exclude read only fields":
+          ["STS",
+            "IDX",
+            "INT_STAT",
+            "INT_RAW",
+            "INT_CLR",
+          ],
+
+  "Exclude memories" :
+  [
+    "ROM"
+
+
+  ],
+
+
+  "16 Bit Mask" :
+  [
+     "I2S_PDM_COEF"
+  ],
+
+  "12 Bit Mask" :
+  [
+    "DBG_Buf."
+  ]
+
+
+}
