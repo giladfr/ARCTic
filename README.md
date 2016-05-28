@@ -18,6 +18,9 @@ In order to communicate with the ASIC the ARCTic wraps the Metaware debugger exe
 * Dump / Load and draw memory regions.
 * Basic memory test.
 
+## ScreenShot
+![Registers](https://cloud.githubusercontent.com/assets/481554/15627229/fd23cb62-24e5-11e6-9197-a89b1d6f5007.png?raw=true "Registers")
+
 ## Dependencies
 * Python 2.7 (32bit)
 * pyGTK
